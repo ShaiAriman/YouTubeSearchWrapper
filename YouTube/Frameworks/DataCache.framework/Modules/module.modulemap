@@ -1,0 +1,11 @@
+framework module DataCache {
+  umbrella header "DataCache.h"
+
+  export *
+  module * { export * }
+}
+
+module DataCache.Swift {
+    header "DataCache-Swift.h"
+    requires objc
+}

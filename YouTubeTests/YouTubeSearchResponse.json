@@ -1,0 +1,672 @@
+{
+ "kind": "youtube#searchListResponse",
+ "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/xODqe673c799Nw8ucI7slieIULM\"",
+ "nextPageToken": "CBQQAA",
+ "regionCode": "IL",
+ "pageInfo": {
+  "totalResults": 168,
+  "resultsPerPage": 20
+ },
+ "items": [
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/lBrylebTgXYSgqTrym8QKkcey4c\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "pyk5B2uDtHA"
+   },
+   "snippet": {
+    "publishedAt": "2020-04-24T18:11:11.000Z",
+    "channelId": "UC7ndkZ4vViKiM7kVEgdrlZQ",
+    "title": "EMERGENCY UPDATE: BITCOIN IS ABOUT TO EXPLODE - HERE&#39;S OUR TARGET (btc price today news market ta)",
+    "description": "You New to crypto and want to start at step 1? Get The Diamond! Diamond Combo (Best Value) Save $600!!",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/pyk5B2uDtHA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/pyk5B2uDtHA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/pyk5B2uDtHA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Crypto Crew University",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/h06lbfkN3zoGeteuxjCSIK7lkB4\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "kdzUTsu6-0E"
+   },
+   "snippet": {
+    "publishedAt": "2020-04-22T17:58:49.000Z",
+    "channelId": "UC7ndkZ4vViKiM7kVEgdrlZQ",
+    "title": "7 HABITS OF HIGHLY SUCCESSFUL BITCOIN TRADERS (btc crypto live news price today analysis prediction)",
+    "description": "You New to crypto and want to start at step 1? Get The Diamond! Diamond Combo (Best Value) Save $600!!",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/kdzUTsu6-0E/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/kdzUTsu6-0E/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/kdzUTsu6-0E/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Crypto Crew University",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/KJjlTsVIT76MEOJsyFSl7w5yhWo\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "sQ_RKLSMjzE"
+   },
+   "snippet": {
+    "publishedAt": "2020-04-15T19:42:29.000Z",
+    "channelId": "UC7ndkZ4vViKiM7kVEgdrlZQ",
+    "title": "BITCOIN IS FORMING THE LARGEST BULL FLAG IN HISTORY BUT IT DOESN&#39;T MEAN WHAT YOU THINK (price news)",
+    "description": "24 hrs ONLY FLASH SALE!! Promo Code: CoronaVirus (Save EXTRA $500 off Diamond or Gold) Diamond Combo (Best Value) Save $600 +$500 with Promo ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/sQ_RKLSMjzE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/sQ_RKLSMjzE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/sQ_RKLSMjzE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Crypto Crew University",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/k3NcXQoYHx3WgrCWnHuokpMYHrc\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "xdxV1-ov2ks"
+   },
+   "snippet": {
+    "publishedAt": "2020-04-08T19:52:37.000Z",
+    "channelId": "UC7ndkZ4vViKiM7kVEgdrlZQ",
+    "title": "WARNING: BITCOIN IS ABOUT TO HAVE A MASSIVE MOVE - HERE&#39;S OUR TARGET (btc price today news market)",
+    "description": "NEW WEBSITE!!!! https://cryptocrewuniversity.com/ Diamond Combo (Best Value) Save $600!! https://cryptocrewuniversity.com/classes/diamond-combo Gold ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/xdxV1-ov2ks/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/xdxV1-ov2ks/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/xdxV1-ov2ks/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Crypto Crew University",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/xKS5Uq4SWVjGiRJDW3BtJRTxZao\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "3tujhjwuxx8"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-25T18:50:24.000Z",
+    "channelId": "UC7ndkZ4vViKiM7kVEgdrlZQ",
+    "title": "BITCOIN IS SCREAMING BEARISH WITH DEATH CROSS &amp; DOUBLE TOP BUT IS THE OPPOSITE ABOUT TO HAPPEN?",
+    "description": "CLAIM YOUR FREE CLASS NOW! Step 1: Click Here Now https://www.cryptocrewuniversity.com/ Step2: Scroll to Bottom (Right) Step 3: Enter email + Click Box ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/3tujhjwuxx8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/3tujhjwuxx8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/3tujhjwuxx8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Crypto Crew University",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/MTKOpOkimigkoPhzSbTipXhmGDI\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "ARilQEgUiE8"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-19T15:23:14.000Z",
+    "channelId": "UC7ndkZ4vViKiM7kVEgdrlZQ",
+    "title": "BITCOIN HOLDERS HAVE TO SEE THIS UNKNOWN CHART (btc crypto live news price today analysis prediction",
+    "description": "Diamond Combo (Best Value) Save $600!! https://www.cryptocrewuniversity.com/product/diamond-combo/ Gold Combo (Top Seller) Save $400!",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ARilQEgUiE8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ARilQEgUiE8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ARilQEgUiE8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Crypto Crew University",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/8z_0APXgpWQ4e1YUWOfUm736Axk\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "tJ_2HT1Kr4s"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-18T17:27:09.000Z",
+    "channelId": "UC7ndkZ4vViKiM7kVEgdrlZQ",
+    "title": "BITCOIN DEATH CROSS - BE READY FOR THIS (btc crypto live news price today analysis prediction ta",
+    "description": "Diamond Combo (Best Value) Save $600!! https://www.cryptocrewuniversity.com/product/diamond-combo/ Gold Combo (Top Seller) Save $400!",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/tJ_2HT1Kr4s/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/tJ_2HT1Kr4s/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/tJ_2HT1Kr4s/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Crypto Crew University",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/H14gur5k5KoeQ8RFw8ycI9pjmmo\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "trXzpO1dpJk"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-17T16:31:52.000Z",
+    "channelId": "UC7ndkZ4vViKiM7kVEgdrlZQ",
+    "title": "BITCOIN ENTERS RARE GOLDEN ZONE - DON&#39;T MISS THIS (btc crypto live news today analysis prediction ta",
+    "description": "Only 24hrs Left! Unlock 2 Classes For FREE - Click Now Diamond Combo (Best Value) Save $1200 + $300 with BTC or ETH!!",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/trXzpO1dpJk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/trXzpO1dpJk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/trXzpO1dpJk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Crypto Crew University",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ZcOJ0TPAnz9wAQ5_23tslwrNGiI\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "sHuY1DSd2gE"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-12T19:38:32.000Z",
+    "channelId": "UC7ndkZ4vViKiM7kVEgdrlZQ",
+    "title": "EMERGENCY UPDATE: BITCOIN HISTORIC PLUNGE (btc crypto live news today market analysis prediction",
+    "description": "ONLY A FEW DAYS LEFT! Unlock 2 Classes For FREE - Click Now Diamond Combo (Best Value) Save $1200 + $300 with BTC or ETH!!",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/sHuY1DSd2gE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/sHuY1DSd2gE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/sHuY1DSd2gE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Crypto Crew University",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/8OLsqo5qU7-Atje8BgzBD_ft6Qg\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "dz9fdNhXEtQ"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-11T19:33:48.000Z",
+    "channelId": "UC7ndkZ4vViKiM7kVEgdrlZQ",
+    "title": "WHALES WILL BUY BITCOIN AT THIS PRICE - DON&#39;T MISS  OUT (btc crypto live news market analysis  today",
+    "description": "ONLY A FEW DAYS LEFT! Unlock 2 Classes For FREE - Click Now Diamond Combo (Best Value) Save $1200 + $300 with BTC or ETH!!",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/dz9fdNhXEtQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/dz9fdNhXEtQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/dz9fdNhXEtQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Crypto Crew University",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/DZholmGx7_YQiO3wuct00U0RJew\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "wzjOTCHmepw"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-04T20:19:43.000Z",
+    "channelId": "UC7ndkZ4vViKiM7kVEgdrlZQ",
+    "title": "THIS 100 YEAR OLD INDICATOR SAYS BITCOIN IS PREPARING FOR A MASSIVE MOVE (btc live news price today",
+    "description": "BIRTHDAY BLOWOUT - LIMITED TIME ONLY! Diamond Combo (Best Value) Save $1200 + $300 with BTC or ETH!!",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/wzjOTCHmepw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/wzjOTCHmepw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/wzjOTCHmepw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Crypto Crew University",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/2-qyZsNBxubFPXVwq7ngjnXzpYM\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "sANP3fHQSn8"
+   },
+   "snippet": {
+    "publishedAt": "2020-02-26T19:23:36.000Z",
+    "channelId": "UC7ndkZ4vViKiM7kVEgdrlZQ",
+    "title": "WHY IS BITCOIN TANKING - THE TRUTH (btc crypto live news price prediction analysis today ta 2020",
+    "description": "BIRTHDAY BLOWOUT - LIMITED TIME ONLY! Diamond Combo (Best Value) Save $1200 + $300 with BTC or ETH!!",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/sANP3fHQSn8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/sANP3fHQSn8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/sANP3fHQSn8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Crypto Crew University",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/fU_53QSM6oqulSwR2Q2eXmOoVMo\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "IICQjvUtEek"
+   },
+   "snippet": {
+    "publishedAt": "2020-02-19T20:32:13.000Z",
+    "channelId": "UC7ndkZ4vViKiM7kVEgdrlZQ",
+    "title": "BITCOIN EXIT STRATEGY - WHAT THEY&#39;RE NOT TELLING YOU (btc crypto live news price analysis today ta)",
+    "description": "BIRTHDAY BLOWOUT - LIMITED TIME ONLY! Diamond Combo (Best Value) Save $1200 + $300 with BTC or ETH!!",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/IICQjvUtEek/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/IICQjvUtEek/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/IICQjvUtEek/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Crypto Crew University",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/6M9CoV9RzW6Rpr5FjyXYKps0z7Y\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "_Jb1JSlB2-g"
+   },
+   "snippet": {
+    "publishedAt": "2020-02-12T20:10:11.000Z",
+    "channelId": "UC7ndkZ4vViKiM7kVEgdrlZQ",
+    "title": "URGENT: BITCOIN GOLDEN CROSS - OPPORTUNITY OF LIFETIME (btc crypto live news price analysis today ta",
+    "description": "Do You Want A FREE CLASS? 1. Go Here: https://www.cryptocrewuniversity.com/ 2. Scroll to bottom 3. Enter Email Address + Click Box + Subscribe!",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/_Jb1JSlB2-g/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/_Jb1JSlB2-g/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/_Jb1JSlB2-g/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Crypto Crew University",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/efBRvrRgvSdKxxBysYbgd7ADQ_8\"",
+   "id": {
+    "kind": "youtube#playlist",
+    "playlistId": "PLJO57LnyXrugGAoz6SVghzHp6GAahb_01"
+   },
+   "snippet": {
+    "publishedAt": "2020-02-06T15:46:04.000Z",
+    "channelId": "UC7ndkZ4vViKiM7kVEgdrlZQ",
+    "title": "Crypto Crew University (2020 Videos, Classes and Reviews)",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/pyk5B2uDtHA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/pyk5B2uDtHA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/pyk5B2uDtHA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Crypto Crew University",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/N8yMWFILDoHeYhN5AYpmOHWapKI\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "ZdLXR8JnOBg"
+   },
+   "snippet": {
+    "publishedAt": "2020-02-05T19:34:20.000Z",
+    "channelId": "UC7ndkZ4vViKiM7kVEgdrlZQ",
+    "title": "BITCOIN JUST DID SOMETHING IT HASN&#39;T DONE IN 7 YEARS (btc crypto live news price analysis today ta)",
+    "description": "Do You Want A FREE CLASS? 1. Go Here: https://www.cryptocrewuniversity.com/ 2. Scroll to bottom 3. Enter Email Address + Subscribe! Then BOOM- FREE ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ZdLXR8JnOBg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ZdLXR8JnOBg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ZdLXR8JnOBg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Crypto Crew University",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/lDOXuyG0VOIJxQ_57f5f5Is8kz8\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "J8INElZVp-U"
+   },
+   "snippet": {
+    "publishedAt": "2020-01-29T18:52:55.000Z",
+    "channelId": "UC7ndkZ4vViKiM7kVEgdrlZQ",
+    "title": "URGENT: IF BITCOIN DOES THIS ONE THING PRICES WILL EXPLODE (btc crypto live 2020 news price today)",
+    "description": "Diamond Combo (Best Value) Save $600!! https://www.cryptocrewuniversity.com/product/diamond-combo/ Gold Combo (Top Seller) Save $400!",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/J8INElZVp-U/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/J8INElZVp-U/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/J8INElZVp-U/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Crypto Crew University",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/5aNFLBzVZ6BOjR6W92Uzpwykmjg\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "Bv5xIACmOf8"
+   },
+   "snippet": {
+    "publishedAt": "2020-01-22T19:42:55.000Z",
+    "channelId": "UC7ndkZ4vViKiM7kVEgdrlZQ",
+    "title": "BITCOIN HALVING IS ABOUT TO SHAKE THE CRYPTO MARKET (btc crypto live price analysis news today 2020",
+    "description": "Diamond Combo (Best Value) Save $600!! https://www.cryptocrewuniversity.com/product/diamond-combo/ Gold Combo (Top Seller) Save $400!",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Bv5xIACmOf8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Bv5xIACmOf8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Bv5xIACmOf8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Crypto Crew University",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/vAkFsDJ-Ypv5Yb6YL_6bUI3SV48\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "bqRIJdFBHAQ"
+   },
+   "snippet": {
+    "publishedAt": "2020-01-15T19:39:30.000Z",
+    "channelId": "UC7ndkZ4vViKiM7kVEgdrlZQ",
+    "title": "IS BITCOIN ABOUT TO ENTER A PARABOLIC BULL MARKET? (btc crypto live price news analysis today ta",
+    "description": "Diamond Combo (Best Value) Save $600!! https://www.cryptocrewuniversity.com/product/diamond-combo/ Gold Combo (Top Seller) Save $400!",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/bqRIJdFBHAQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/bqRIJdFBHAQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/bqRIJdFBHAQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Crypto Crew University",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/NAgRlLex4LzvwKErWmiBzFBDPIA\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "vvpWGBC79t4"
+   },
+   "snippet": {
+    "publishedAt": "2020-01-08T20:32:00.000Z",
+    "channelId": "UC7ndkZ4vViKiM7kVEgdrlZQ",
+    "title": "BITCOIN IS ABOUT TO HAVE A MASSIVE MOVE - HERE&#39;S WHAT YOU NEED TO KNOW (btc crypto price news today",
+    "description": "Diamond Combo Save $600!! https://www.cryptocrewuniversity.com/product/diamond-combo/ Gold Combo Save $400!",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/vvpWGBC79t4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/vvpWGBC79t4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/vvpWGBC79t4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Crypto Crew University",
+    "liveBroadcastContent": "none"
+   }
+  }
+ ]
+}
