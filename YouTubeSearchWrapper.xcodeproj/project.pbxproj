@@ -209,7 +209,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 173A90982456C34F00B86A39 /* Build configuration list for PBXProject "YouTube" */;
+			buildConfigurationList = 173A90982456C34F00B86A39 /* Build configuration list for PBXProject "YouTubeSearchWrapper" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -504,7 +504,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		173A90982456C34F00B86A39 /* Build configuration list for PBXProject "YouTube" */ = {
+		173A90982456C34F00B86A39 /* Build configuration list for PBXProject "YouTubeSearchWrapper" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				173A90B02456C35000B86A39 /* Debug */,
