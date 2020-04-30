@@ -23,6 +23,7 @@ public struct YouTube {
         self.apiKey = apiKey
     }
     
+    /** Makes a request to YouTube API to get latest videos for the channel. */
     internal func requestChannelVideos(channelId : String, maxResults : Int, completionHandler: @escaping YouTubeSearchRequestCompletionHandler) {
         if let url : URL = getSearchURLWith(apiKey : apiKey, channelId : channelId, maxResults : maxResults) {
             let youTubeSearchCodableTask = URLSession.shared.codableTask(with: url, completionHandler: completionHandler)
@@ -30,6 +31,7 @@ public struct YouTube {
         }
     }
     
+    /** Makes a request to YouTube API and prepares essential video info for the completion handler . */
     public func getChannelVideos(channelId : String, maxResults : Int, completionHandler: @escaping YouTubeSearchCompletionHandler) {
         
         let internalCompletionHandler : YouTubeSearchRequestCompletionHandler = { (youTubeSearchResponse, URLResponse, error) in
@@ -58,7 +60,10 @@ public struct YouTube {
         requestChannelVideos(channelId: channelId, maxResults: maxResults, completionHandler: internalCompletionHandler)
     }
     
-    // Example: "https://www.googleapis.com/youtube/v3/search?key=AIzaSyAGSd9LGn9XVC1rUJAuPFbcOQpEwZIbq8A&channelId=UC7ndkZ4vViKiM7kVEgdrlZQ&part=snippet,id&order=date&maxResults=20"
+    /**
+     Prepares a YouTube API url with given parameters.
+     - Example: https://www.googleapis.com/youtube/v3/search?key=&channelId=UC7ndkZ4vViKiM7kVEgdrlZQ&part=snippet,id&order=date&maxResults=20
+     */
     private func getSearchURLWith(apiKey : String, channelId : String, maxResults : Int) -> URL? {
         let stringUrl = "https://www.googleapis.com/youtube/v3/search?key=\(apiKey)&channelId=\(channelId)&part=snippet,id&order=date&maxResults=\(maxResults)"
         return URL(string: stringUrl)

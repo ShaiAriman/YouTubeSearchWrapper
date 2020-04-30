@@ -18,4 +18,11 @@ public struct YouTubeVideoInfo {
             "https://www.youtube.com/watch?v=" + id
         }
     }
+    
+    public init(id : String, title : String, thumbnainUrl : String, publishedAt : String) {
+        self.id = id
+        self.title = title
+        self.thumbnainUrl = thumbnainUrl
+        self.publishedAt = publishedAt
+    }
 }

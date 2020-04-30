@@ -7,19 +7,19 @@
 //
 
 import XCTest
-@testable import YouTube
+@testable import YouTubeSearchWrapper
 
 class YouTubeTests: XCTestCase {
 
+    /** Get your Api key: https://console.developers.google.com/apis/credentials */
+    let apiKey = ""
+    
     func testResponseFromFromFile() {
-
         let testBundle = Bundle(for: type(of: self))
-        
         guard let content = testBundle.url(forResource: "YouTubeSearchResponse", withExtension: "json") else {
-                XCTFail()
-                return
-            }
-        
+            XCTFail()
+            return
+        }
         guard let data: Data = NSData(contentsOf: content) as Data? else { return }
         
         let decoder = JSONDecoder()
@@ -30,14 +30,13 @@ class YouTubeTests: XCTestCase {
         XCTAssert(response?.items?.count == 20)
     }
     
-    // example:  "https://www.googleapis.com/youtube/v3/search?key=AIzaSyAGSd9LGn9XVC1rUJAuPFbcOQpEwZIbq8A&channelId=UC7ndkZ4vViKiM7kVEgdrlZQ&part=snippet,id&order=date&maxResults=20"
+    // example:  "https://www.googleapis.com/youtube/v3/search?key=&channelId=UC7ndkZ4vViKiM7kVEgdrlZQ&part=snippet,id&order=date&maxResults=20"
     func testYouTubeSearchRequests() throws {
-        testYouTubeSearchNoError(apiKey: "AIzaSyAGSd9LGn9XVC1rUJAuPFbcOQpEwZIbq8A", channelId: "UC7ndkZ4vViKiM7kVEgdrlZQ", maxResults: 20)
+        testYouTubeSearchNoError(apiKey: apiKey, channelId: "UC7ndkZ4vViKiM7kVEgdrlZQ", maxResults: 20)
     }
 
-    
     func testGetYouTubeSearch() throws {
-        testGetYouTubeSearch(apiKey: "AIzaSyAGSd9LGn9XVC1rUJAuPFbcOQpEwZIbq8A", channelId: "UC7ndkZ4vViKiM7kVEgdrlZQ", maxResults: 20)
+        testGetYouTubeSearch(apiKey: apiKey, channelId: "UC7ndkZ4vViKiM7kVEgdrlZQ", maxResults: 20)
     }
     
     func testYouTubeSearchNoError(apiKey : String, channelId : String, maxResults : Int) {

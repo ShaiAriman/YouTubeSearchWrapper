@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		173A90A82456C35000B86A39 /* YouTube.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 173A909E2456C34F00B86A39 /* YouTube.framework */; };
+		173A90A82456C35000B86A39 /* YouTubeSearchWrapper.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 173A909E2456C34F00B86A39 /* YouTubeSearchWrapper.framework */; };
 		173A90AD2456C35000B86A39 /* YouTubeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 173A90AC2456C35000B86A39 /* YouTubeTests.swift */; };
 		173A90AF2456C35000B86A39 /* YouTube.h in Headers */ = {isa = PBXBuildFile; fileRef = 173A90A12456C34F00B86A39 /* YouTube.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		173A90BB2456C37D00B86A39 /* URLSessionExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 173A90B82456C37D00B86A39 /* URLSessionExtension.swift */; };
@@ -45,7 +45,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		173A909E2456C34F00B86A39 /* YouTube.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = YouTube.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		173A909E2456C34F00B86A39 /* YouTubeSearchWrapper.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = YouTubeSearchWrapper.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		173A90A12456C34F00B86A39 /* YouTube.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = YouTube.h; sourceTree = "<group>"; };
 		173A90A22456C34F00B86A39 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		173A90A72456C35000B86A39 /* YouTubeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = YouTubeTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -73,7 +73,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				173A90A82456C35000B86A39 /* YouTube.framework in Frameworks */,
+				173A90A82456C35000B86A39 /* YouTubeSearchWrapper.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -92,7 +92,7 @@
 		173A909F2456C34F00B86A39 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				173A909E2456C34F00B86A39 /* YouTube.framework */,
+				173A909E2456C34F00B86A39 /* YouTubeSearchWrapper.framework */,
 				173A90A72456C35000B86A39 /* YouTubeTests.xctest */,
 			);
 			name = Products;
@@ -169,7 +169,7 @@
 			);
 			name = YouTube;
 			productName = YouTube;
-			productReference = 173A909E2456C34F00B86A39 /* YouTube.framework */;
+			productReference = 173A909E2456C34F00B86A39 /* YouTubeSearchWrapper.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		173A90A62456C35000B86A39 /* YouTubeTests */ = {
@@ -421,8 +421,8 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = sa.YouTube;
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = sa.YouTubeSearchWrapper;
+				PRODUCT_NAME = YouTubeSearchWrapper;
 				SKIP_INSTALL = YES;
 				SUPPORTS_MACCATALYST = NO;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -454,8 +454,8 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = sa.YouTube;
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = sa.YouTubeSearchWrapper;
+				PRODUCT_NAME = YouTubeSearchWrapper;
 				SKIP_INSTALL = YES;
 				SUPPORTS_MACCATALYST = NO;
 				SWIFT_VERSION = 5.0;
